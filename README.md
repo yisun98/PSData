@@ -32,7 +32,7 @@ We usually cut the raw data into the 64 x 64 pixels or 256 x 256 pixels. You can
 ### Make data
 
 #### Supervised
-We follow the Wald's protocol to downsample the MS and the PAN images (downsamping fator is 4x). Please set the supervised = True.
+We follow the Wald's protocol to downsample the MS and the PAN images (downsamping factor is 4x). Please set the supervised = True.
 
 #### Unsupervised
 You can use the data directly. Please set the supervised = False.

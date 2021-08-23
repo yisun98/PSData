@@ -1,7 +1,7 @@
 # PSData
 A Large-Scale General Pan-sharpening DataSet, which contains PSData3 (QB, GF-2, WV-3) and PSData4(QB, GF-1, GF-2, WV-2).
 
-## Exsamples of PSData3
+## Examples of PSData3 With RGB
 
 ### QB
 
@@ -10,7 +10,7 @@ A Large-Scale General Pan-sharpening DataSet, which contains PSData3 (QB, GF-2, 
 ### WV-3
 
 
-## Exsamples of PSData4
+## Examples of PSData4 With RGB
 
 ### QB
 

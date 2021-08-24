@@ -42,6 +42,16 @@ We split the data into training dataset and test dataset. We provide two strateg
 First, you can use the id of 0 - (n-1) to train and use the id of n to test.
 Second, you can shuffle all data and randomly choose 90% to train and 10% to test.
 
+## Zoom For Details
+You need to change the file path in local_show/local_show.m. And the file that ends with _local_show is the generated image. 
+* [Original](local_show/baby_GT.bmp) 
+
+  ![image](local_show/baby_GT.bmp)
+  
+ * [Zoomed](local_show/baby_GT_local_show.bmp) 
+
+  ![image](local_show/baby_GT_local_show.bmp) 
+
 ## Citation
 If the project is helpful to you, please consider citing us.
 ```

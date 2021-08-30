@@ -5,35 +5,35 @@ A Large-Scale General Pan-sharpening DataSet, which contains PSData3 (QB, GF-2, 
 
 ### QB
 
-* [Simulated Data 1st](examples/PSData3/QB.png) 
+* [PSData3 QB](examples/PSData3/QB.png) 
 
   ![image](examples/PSData3/QB.png)
   
 ### GF-2
-* [Simulated Data 1st](examples/PSData3/GF-2.png) 
+* [PSData3 GF-2](examples/PSData3/GF-2.png) 
 
   ![image](examples/PSData3/GF-2.png)
 ### WV-3
-* [Simulated Data 1st](examples/PSData3/WV-3.png) 
+* [PSData3 WV-3](examples/PSData3/WV-3.png) 
 
   ![image](examples/PSData3/WV-3.png)
 
 ## Examples of PSData4 With RGB
 
 ### QB
-* [Simulated Data 1st](examples/PSData4/QB.png) 
+* [PSData4 QB](examples/PSData4/QB.png) 
 
   ![image](examples/PSData4/QB.png)
 ### GF-1
-* [Simulated Data 1st](examples/PSData4/GF-1.png) 
+* [PSData4 GF-1](examples/PSData4/GF-1.png) 
 
   ![image](examples/PSData4/GF-1.png)
 ### GF-2
-* [Simulated Data 1st](examples/PSData4/GF-2.png) 
+* [PSData4 GF-2](examples/PSData4/GF-2.png) 
 
   ![image](examples/PSData4/GF-2.png)
 ### WV-2
-* [Simulated Data 1st](examples/PSData4/WV-2.png) 
+* [PSData4 WV-2](examples/PSData4/WV-2.png) 
 
   ![image](examples/PSData4/WV-2.png)
 ## Process
